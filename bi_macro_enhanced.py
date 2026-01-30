@@ -284,13 +284,13 @@ def load_real_data():
 def load_models():
     """Load pre-trained models from pickle files"""
     try:
-        with open('xgb_bi_macro_predictor.pkl', 'rb') as f:
+        with open('/workspaces/BI_Macro_Predictor/xgb_bi_macro_predictor.pkl', 'rb') as f:
             xgb_model = pickle.load(f)
         
-        with open('var_bi_macro_predictor.pkl', 'rb') as f:
+        with open('/workspaces/BI_Macro_Predictor/var_bi_macro_predictor.pkl', 'rb') as f:
             var_model = pickle.load(f)
         
-        with open('finbert_sentiment_components.pkl', 'rb') as f:
+        with open('/workspaces/BI_Macro_Predictor/finbert_sentiment_components.pkl', 'rb') as f:
             finbert_components = pickle.load(f)
         
         return xgb_model, var_model, finbert_components, True
