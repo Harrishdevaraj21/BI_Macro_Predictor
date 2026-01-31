@@ -275,7 +275,7 @@ st.markdown("""
 def load_real_data():
     """Load the actual macro data CSV"""
     try:
-        df = pd.read_csv(r"C:\Users\harri\Downloads\Final year project\BI_macro_predictor\macro_data_monthly_1990_2025_cleaned.csv")
+        df = pd.read_csv(r"macro_data_monthly_1990_2025_cleaned.csv")
         # Convert Date column to datetime
         df['Date'] = pd.to_datetime(df['Date'], format='%d-%m-%Y')
         return df
