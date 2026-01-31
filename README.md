@@ -61,15 +61,15 @@ macro_data_monthly_1990_2025_cleaned.csv
 ## 🖥️ Application Features
 
 - **Home:** Overview, metrics, historical trends  
-- ![alt text](<Screenshot 2026-01-31 121859.png>)
+![alt text](<Screenshot 2026-01-31 121859.png>)
 - **Data:** Dataset exploration, filtering, charts  
-- ![alt text](<Screenshot 2026-01-31 121929.png>)
+![alt text](<Screenshot 2026-01-31 121929.png>)
 - **Model:** Architecture & performance  
-- ![alt text](<Screenshot 2026-01-31 121951.png>)
+![alt text](<Screenshot 2026-01-31 121951.png>)
 - **Predictions:** Rate forecasting, validation & confidence  
-- ![alt text](<Screenshot 2026-01-31 122159.png>)
+![alt text](<Screenshot 2026-01-31 122159.png>)
 - **Insights:** Q&A system & market insights  
-- ![alt text](<Screenshot 2026-01-31 122236.png>)
+![alt text](<Screenshot 2026-01-31 122236.png>)
 ---
 
 ## ⚙️ Deployment Details
