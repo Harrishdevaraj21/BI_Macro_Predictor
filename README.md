@@ -60,16 +60,17 @@ macro_data_monthly_1990_2025_cleaned.csv
 
 ## 🖥️ Application Features
 
-- **Home:** Overview, metrics, historical trends  
-![alt text](<Screenshot 2026-01-31 121859.png>)
+- **Home:** Overview, metrics, historical trends
+<img width="1912" height="1024" alt="Screenshot 2026-01-31 121859" src="https://github.com/user-attachments/assets/6697a744-f4e4-4408-a042-d25f82c47325" />
 - **Data:** Dataset exploration, filtering, charts  
-![alt text](<Screenshot 2026-01-31 121929.png>)
-- **Model:** Architecture & performance  
-![alt text](<Screenshot 2026-01-31 121951.png>)
+<img width="1919" height="961" alt="Screenshot 2026-01-31 121929" src="https://github.com/user-attachments/assets/ac7f9d0c-6146-48b7-9029-ec224f227e14" />
+- **Model:** Architecture & performance
+<img width="1919" height="966" alt="Screenshot 2026-01-31 121951" src="https://github.com/user-attachments/assets/15172ba6-8b99-405c-aa66-b520c4468a84" />
 - **Predictions:** Rate forecasting, validation & confidence  
-![alt text](<Screenshot 2026-01-31 122159.png>)
+<img width="1917" height="970" alt="Screenshot 2026-01-31 122159" src="https://github.com/user-attachments/assets/6f0a03a9-16f3-4005-a8df-3ce7bb80dd45" />
 - **Insights:** Q&A system & market insights  
-![alt text](<Screenshot 2026-01-31 122236.png>)
+<img width="1919" height="971" alt="Screenshot 2026-01-31 122236" src="https://github.com/user-attachments/assets/fb43a1df-8efd-4449-95e0-9616e43edbff" />
+
 ---
 
 ## ⚙️ Deployment Details
